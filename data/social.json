@@ -1,0 +1,14 @@
+{
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/peatiscoding",
+      "image": "images/social/github.svg"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/@peatiscoding",
+      "image": "images/social/medium.svg"
+    }
+  ]
+}
