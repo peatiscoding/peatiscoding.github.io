@@ -15,23 +15,3 @@ theme = "hugo-winston-theme"
   addDot = true
 
   highlightColor = '#7b16ff'
-
-[params.fonts]
-  # sets the google font link in layouts/partials/google-fonts.html
-  google_fonts = 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Source+Sans+Pro:wght@400;700&display=swap'
-  heading = "Playfair Display"
-  base = "Source Sans Pro"
-
-[params.logo]
-  mobile = "images/logo/logo-mobile.svg"
-  mobile_height = "36px"
-  desktop = "images/logo/logo.svg"
-  desktop_height = "36px"
-  alt = "Serif - A Hugo Business Theme"
-
-[params.colors]
-  primary = "#323358"
-  black = "#2f2f41"
-  white = "#ffffff"
-  white_offset = "#f6f7ff"
-  grey = "#5C5A5A"

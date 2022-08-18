@@ -1,6 +1,6 @@
 ---
 title: "Peat"
-description: The hallway smelt of boiled cabbage and old rag mats.
+description: Raising child is much more harder than coding
 ---
 Co-CTO, System Architect, Full stack developer @ [Muze Innovation](https://www.muze.co.th).
 
@@ -9,9 +9,9 @@ Co-CTO, System Architect, Full stack developer @ [Muze Innovation](https://www.m
 - Markdown
 - TypeScript
 - Swift
-- JavaScript
-- Python
 - Dart
+- Python
+- Go
 - and little bit of Rust
 
 ### Life
