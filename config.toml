@@ -4,7 +4,7 @@ title = 'peatiscoding.github.io'
 theme = "hugo-winston"
 
 [params]
-  google_analytics_id = ""
+  google_analytics_id = "G-9PN5X6JRGV"
   twitter_handle = "@peatiscoding"
 
   showAuthorOnHomepage = true
