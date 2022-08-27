@@ -2,6 +2,7 @@
 title: "Development Manifesto"
 date: 2022-08-17T09:59:13+07:00
 author: Kittiphat S.
+image: /images/posts/development-manifestor.jpg
 draft: false
 ---
 At Muze Innovation, our development unit idolized few concepts.
